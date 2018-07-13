@@ -1,3 +1,5 @@
 lxml
 BeautifulSoup4
 twitter
+Quandl
+xlml
