@@ -11,7 +11,9 @@ read c
 if [ $c == 'y' ]
 then
   git push origin master
+  tput setaf 4
   echo "Git Pushed Successfully-U"
+  tput sgr0
 else
   echo "Commit The Changes ASAP"
 fi
