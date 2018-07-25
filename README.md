@@ -4,3 +4,5 @@
 * Pandas 
 * Matplotlib
 * Sea Born
+* Plotly
+* Choropleth With Plotly
