@@ -7,3 +7,5 @@
 * Plotly
 * Choropleth With Plotly
 * Linear Regression
+* Logistic Regression
+
