@@ -6,3 +6,4 @@
 * Sea Born
 * Plotly
 * Choropleth With Plotly
+* Linear Regression
