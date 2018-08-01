@@ -10,3 +10,4 @@
 * Logistic Regression
 * K Nearest Neighbors
 * Support Vector Machine
+* K Mean Clustring
