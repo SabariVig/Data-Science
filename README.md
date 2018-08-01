@@ -8,4 +8,5 @@
 * Choropleth With Plotly
 * Linear Regression
 * Logistic Regression
-
+* K Nearest Neighbors
+* Support Vector Machine
