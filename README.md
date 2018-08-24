@@ -11,3 +11,5 @@
 * K Nearest Neighbors
 * Support Vector Machine
 * K Mean Clustring
+* PCA
+* Recomender System
